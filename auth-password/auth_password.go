@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/grokify/gotilla/fmt/fmtutil"
-	"github.com/grokify/oauth2-util-go/services/ringcentral"
+	"github.com/grokify/oauth2more/ringcentral"
+	"github.com/grokify/simplego/fmt/fmtutil"
 	"github.com/joho/godotenv"
 	"golang.org/x/oauth2"
 )
